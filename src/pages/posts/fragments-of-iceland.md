@@ -1,6 +1,6 @@
 ---
 title: Raksta nosaukums
-date: '2020-12-09'
+date: '2020-12-30'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 excerpt: >-
