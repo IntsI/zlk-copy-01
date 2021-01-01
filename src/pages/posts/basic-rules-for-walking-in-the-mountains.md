@@ -12,9 +12,11 @@ excerpt: >-
 template: post
 ---
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+Ervīns GRĪNS dzimis 1925. gadā literātu ģimenē Rīgā. Viņa tēvs ir kritiķis un rakstnieks Jānis Grīns; tēva jaunākais brālis - Aleksandrs Grīns, "Dvēseļu puteņa" autors. Pēc Rīgas 1. ģimnāzijas beigšanas 18 gadu vecumā Ervīnu Grīnu iesauc Latviešu leģionā, un kara beigās viņš nonāk gūstā Vācijā. Kopš 1949. gada dzīvo Stokholmā. Miris 1979. gadā Ņujorkā, apbedīts Stokholmā.
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+Stokholmā Ervīns Grīns mācās Reklāmas un lietišķās mākslas skolā, un viņa maizes darbs ir reklāmu zīmēšanas firmā. Viņš zīmējis arī trimdas grāmatu ilustrācijas, vinjetes un karikatūras, bijis skolotājs [Stokholmas latviešu skolā](https://www.facebook.com/stokholmaslatviesuskola) un darbojies Stokholmas latviešu teātrī gan kā aktieris, gan lugu autors. 
+
+Visvairāk Ervīns Grīns tomēr ir pazīstams ar savu literāro pseidonīmu Richards Rīdzinieks. Viņa spalvai pieder romāns "Zelta motocikls" (jaunākais izdevums 1999. g., apgāds "Jumava"), stāsti, kas apkopoti krājumā "Cirvis ozolā", un dzejoļu krājums "Patiesību meklējot, rakstītas ritmiskas piezīmes, lasāmas skaļā balsī". 
 
 ## Long Distance Hiking
 
