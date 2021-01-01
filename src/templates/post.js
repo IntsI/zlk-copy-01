@@ -24,7 +24,7 @@ export default class Post extends React.Component {
                 <header className="post-header inner-md">
                   <div className="post-meta">
                     <time className="published"
-                      dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%A, %B %e, %Y')}</time>
+                      dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%m/%d/%y')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%m/%d/%y')}</time>
                   </div>
                   <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
                   {_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
