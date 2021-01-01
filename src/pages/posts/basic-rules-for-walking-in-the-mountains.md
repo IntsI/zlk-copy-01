@@ -6,9 +6,9 @@ date: '2020-01-01'
 thumb_img_path: /images/melodic-kale.png
 content_img_path: /images/Screenshot 2021-01-01 at 21.13.22.png
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Ervīns GRĪNS dzimis 1925. gadā literātu ģimenē Rīgā. Viņa tēvs ir kritiķis un
+  rakstnieks Jānis Grīns; tēva jaunākais brālis - Aleksandrs Grīns, "Dvēseļu
+  puteņa" autors.
 template: post
 ---
 
