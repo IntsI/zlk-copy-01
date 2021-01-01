@@ -6,7 +6,7 @@
     "header": {
         "type": "header",
         "title": "Zviedrijas latviešu kalendārs",
-        "logo_img": "/images/best-tortoise.svg",
+        "logo_img": "/images/logo.png",
         "has_nav": true,
         "nav_links": [
             {
