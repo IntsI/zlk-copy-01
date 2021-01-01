@@ -2,7 +2,7 @@
 title: >-
   Šodien, 1. janvārī, atzīmējam Ervīna Grīna - viņš arī rakstnieks Richards
   Rīdzinieks - dzimšanu.
-date: '2019-04-09'
+date: '2019-01-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 excerpt: >-
