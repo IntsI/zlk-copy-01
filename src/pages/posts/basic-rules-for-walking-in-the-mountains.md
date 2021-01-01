@@ -3,7 +3,7 @@ title: >-
   Šodien, 1. janvārī, atzīmējam Ervīna Grīna - viņš arī rakstnieks Richards
   Rīdzinieks - dzimšanu.
 date: '2020-01-01'
-thumb_img_path: images/1.jpg
+thumb_img_path: /images/melodic-kale.png
 content_img_path: /images/Screenshot 2021-01-01 at 21.13.22.png
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
